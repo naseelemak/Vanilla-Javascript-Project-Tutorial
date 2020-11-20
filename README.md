@@ -1,9 +1,12 @@
 # Vanilla Javascript Project Tutorial
- A simple to-do list web app.
+
+ A simple to-do list web app me to practise JavaScript development with.
+ Try it out at https://todo.jaedontan.com/
  
  A work in progress.
-
- Try it out at https://todo.jaedontan.com/
+ Todo:
+ - Make sure the app saves user's "completed" toggles
+ - Make it responsive
  
  
  Project inspired by Dev Ed's JavaScript tutorial:
