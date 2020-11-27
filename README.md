@@ -1,7 +1,7 @@
 # Vanilla Javascript Project Tutorial
 
  A simple to-do list web app me to practise JavaScript development with.
- Try it out at https://todo.jaedontan.com/
+ Try it out at https://todo-dev-ed.jaedontan.com/
  
  A work in progress.
  Todo:
